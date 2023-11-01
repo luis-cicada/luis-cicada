@@ -17,15 +17,16 @@
 - Git | GitHub
 - RESTful APIs
 - Continuous Integration and Deployment (CI/CD)
+- AWS Cloud
+- Terraform
 
 💬 **About Me**:
 I'm a Full-stack Software Engineer with a passion for creating robust, scalable, and user-friendly web applications. I thrive on solving complex problems and enjoy staying up-to-date with the latest industry trends and technologies. My goal is to build software that not only meets business objectives but also enhances the user experience. I love collaborating with others, learning from different perspectives, and sharing my knowledge with the community.
 
 
 📝 **Certifications**:
-- [Certification Name] - Issuing Organization (Year)
-- [Certification Name] - Issuing Organization (Year)
+- [Cloud Practitioner] - AWS (2022)
+- [Serverless] - AWS (2023)
+- [Architecting] - AWS (2023)
 
 Feel free to connect with me and explore my open-source projects on GitHub. Let's create amazing software together!
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luis-cicada)
