@@ -25,8 +25,8 @@ I'm a Full-stack Software Engineer with a passion for creating robust, scalable,
 
 
 📝 **Certifications**:
-- [Cloud Practitioner] - AWS (2022) 
-- [Serverless] - AWS (2023)
+- [Cloud Practitioner](https://www.credly.com/badges/9e0a67d1-edc2-4c63-8151-83265849174e/public_url) - AWS (2022) 
+- [Serverless](https://www.credly.com/badges/67f67a30-9d6d-400c-9b57-ff7770b02a1e/public_url) - AWS (2023)
 - [Architecting](https://www.credly.com/badges/8ca46141-e85b-45c0-bd87-b71e88f5cd0d/public_url) - AWS (2023) 
 
 Feel free to connect with me and explore my open-source projects on GitHub. Let's create amazing software together!
