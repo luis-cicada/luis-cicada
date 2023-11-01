@@ -1,4 +1,4 @@
-# Luis Alejandro Guzman
+# Hi there 👋! I'm Luis Alejandro Guzman
 
 👨‍💻 Full-stack Software Engineer
 
